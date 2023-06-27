@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hellou 🙈
 
-<!--
-**JackyHuth/JackyHuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jacky, a computer science student at the RheinMain University.
 
-Here are some ideas to get you started:
+💻 Right now I'm working on several group projects for my practical uni courses.
+You can find some of the paat projects here c:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 Stuff I'm learning right now: 
++ Java, 
++ HTML, 
++ CSS/SCSS 
++ and JavaScript
+
+Stuff I'm learning in the future:
++ Python
++ C
++ and more...
