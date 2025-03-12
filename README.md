@@ -12,8 +12,8 @@ Current skills:
 
 Currently learning:
 + Python incl.
-+   Pandas
-+   Seaborn
+  +  Pandas
+  +   Seaborn
 + and more for data science
 
 Stuff I'm learning in the future:
