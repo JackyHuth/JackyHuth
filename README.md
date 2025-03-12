@@ -14,7 +14,7 @@ Currently learning:
 + Python incl.
   +  Pandas
   +   Seaborn
-+ and more for data science
++ and more...
 
 Stuff I'm learning in the future:
 + JavaScript
