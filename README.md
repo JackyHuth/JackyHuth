@@ -1,4 +1,4 @@
-### Hellou 🙈
+### Hello
 
 I'm Jacky, a computer science student at the RheinMain University.
 
