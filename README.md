@@ -9,3 +9,8 @@ Current skills:
 + Python
 + JavaScript
 + C
++ TypeScript
++ HTML
++ CSS
++ Vue.js
++ SQL
